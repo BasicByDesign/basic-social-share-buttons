@@ -1,0 +1,67 @@
+.basic-share-buttons__options-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  max-width: 1024px;
+}
+
+.basic-share-buttons__sites-container {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  margin-right: 40px;
+}
+
+.basic-share-buttons__radio-coloumn {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 200px;
+          flex: 0 0 200px;
+}
+
+.basic-share-buttons__sortable {
+  border: 1px solid #ccc;
+  padding: 10px;
+  background-color: #fff;
+  /*display: inline-block;*/
+  min-height: 54px;
+  margin-bottom: 1rem;
+  width: 100%;
+  max-width: 920px;
+}
+
+.basic-share-buttons__sortable span {
+  cursor: -webkit-grab;
+  cursor: grab;
+}
+
+.basic-share-buttons__label {
+  margin-bottom: 0.3em;
+  display: block;
+}
+
+.form-table p.basic-share-buttons__para {
+  font-size: 0.9em;
+}
+
+.basic-share-buttons__style-section,
+.basic-share-buttons__size-section {
+  margin-bottom: 1.15rem;
+  padding: 10px;
+  border: 1px solid #ccc;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.basic-share-buttons__css textarea {
+  max-width: 1024px;
+  height: 100px;
+  background-color: transparent;
+  border: 1px solid #ccc;
+  border-radius: 0;
+  width: 100%;
+}
