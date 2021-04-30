@@ -36,17 +36,6 @@ The title and URL are taken from Wordpress's `the_title()` and `the_permalink()`
 You can override both as parameters to the shortcode.
 `[basic-share-buttons title='Your custom page title' url='http://customurl.com/page']`
 
-
-== Frequently Asked Questions ==
-
-= A question that someone might have =
-
-An answer to that question.
-
-= What about foo bar? =
-
-Answer to foo bar dilemma.
-
 == Screenshots ==
 
 1. Admin settings (Large buttons)
