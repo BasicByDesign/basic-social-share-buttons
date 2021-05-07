@@ -3,7 +3,7 @@ Contributors: basicbydesign
 Tags: social shares, social buttons, share buttons, social share buttons  
 Requires at least: 5  
 Tested up to: 5.7.1  
-Stable tag: 5  
+Stable tag: 1.0.0  
 Requires PHP: 7.0  
 License: MIT  
 License URI: https://opensource.org/licenses/MIT  
@@ -48,3 +48,10 @@ You can override both as parameters to the shortcode.
 
 ### 1.0 
 * Initial launch
+
+
+## Copyright
+
+This plugin includes code from:
+* SortableJS [https://github.com/SortableJS/Sortable](https://github.com/SortableJS/Sortable) - [MIT License](https://github.com/SortableJS/Sortable/blob/master/LICENSE)
+* Sharing Buttons io [https://github.com/mxstbr/sharingbuttons.io](https://github.com/mxstbr/sharingbuttons.io) - [MIT License](https://github.com/mxstbr/sharingbuttons.io/blob/master/LICENSE.md)
