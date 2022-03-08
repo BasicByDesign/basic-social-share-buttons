@@ -2,8 +2,8 @@
 Contributors: basicbydesign
 Tags: social shares, social buttons, share buttons, social share buttons
 Requires at least: 5
-Tested up to: 5.7.1
-Stable tag: 1.0.0
+Tested up to: 5.9.1
+Stable tag: 1.0.1
 Requires PHP: 7.0
 License: MIT
 License URI: https://opensource.org/licenses/MIT
@@ -45,6 +45,9 @@ You can override both as parameters to the shortcode.
 5. Buttons on page 
 
 == Changelog ==
+
+= 1.0.1 =
+* Shortcode added to admin page
 
 = 1.0 =
 * Initial launch

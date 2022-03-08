@@ -3,7 +3,7 @@
 	Plugin Name: Basic Social Share Buttons
 	Plugin URI: https://basicby.design/basic-social-share-buttons
 	Description: Adds social share buttons to your post without any javascript tracking libraries
-	Version: 1.0.0
+	Version: 1.0.1
 	Author: Basic by Design
 	Author URI: https://basicby.design
 	License: MIT

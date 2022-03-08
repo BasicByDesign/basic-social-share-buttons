@@ -17,7 +17,7 @@ class BBD_Basic_Share_Buttons_Settings {
     register_setting("reading", "basic-share-buttons__style", [
       "default" => "yes"
     ]);
-    add_settings_field("basic-share-buttons__sites", "Share Buttons", [$this, "form_inputs"], "reading");
+    add_settings_field("basic-share-buttons__sites", "Share Buttons <span class='basic-share-buttons__sites-shortcode'>[basic-share-buttons]</span>", [$this, "form_inputs"], "reading");
     // }
   }
 
